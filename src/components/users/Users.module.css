@@ -1,0 +1,19 @@
+.clients {
+    color: white;
+}
+
+.title {
+    grid-area: title;
+
+    font-size: 30px;
+    color: white;
+}
+
+.item {
+    font-size: 20px;
+    color: azure;
+}
+
+img {
+    width: 60px;
+}
